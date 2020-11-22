@@ -11,8 +11,12 @@ In this paper, Ben Sneiderman realises a taxonomy about data types and their tas
 
 <img src="images/RE05_Schneiderman_PELLIER_01.png" alt="data-types" width = 80% height=auto border= 1px>
 
+---
+
 ## 7 Task Types
 
 <img src="images/RE05_Schneiderman_PELLIER _02.png" alt="data-task" width = 80% height=auto border= 1px>
+
+---
 
 

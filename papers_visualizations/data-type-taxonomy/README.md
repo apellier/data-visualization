@@ -3,7 +3,7 @@
 
 In this paper, Ben Sneiderman realises a taxonomy about data types and their task types.
 
-**[Link to full viz](/images/REO5_Schneiderman_PELLIER_A4.png)**
+**[Link to full viz](/images/RE05_Schneiderman_PELLIER_A4.png)**
 
 <img src="images/RE05_Schneiderman_PELLIER_A4.png" alt="shneirderman-visualization" width = 50% height=auto border= 1px>
 
