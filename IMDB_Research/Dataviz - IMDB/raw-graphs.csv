@@ -1,0 +1,83 @@
+﻿name;number;ratio-coprod;ratio-en;region;;;;name;number;number-coprod;ratio-coprod;ratio-en;region;;;;;
+UK;130;0,6;0,8;europe;;;;UK;130;85;0,65;0,95;western;;;;;
+Germany;59;0,6;0,6;europe;;;;Germany;59;37;0,63;0,71;western;;;;;
+France;49;0,4;0,4;europe;;;;France;49;20;0,41;0,57;western;;;;;
+Canada;35;0,4;0,8;america;;;;Canada;35;19;0,54;0,91;western;;;;;
+Italy;21;0,4;0,6;europe;;;;Italy;21;10;0,48;0,66;western;;;;;
+Spain;16;0,2;0,4;europe;;;;Spain;16;6;0,38;0,44;western;;;number;ratio-coprod;
+Australia;15;0,6;0,8;oceania;;;;Australia;15;9;0,6;1;western;;;130;0,65;85
+Japan;15;0,4;0,4;asia;;;;Japan;15;7;0,47;0,4;japanese;;;59;0,63;37
+India;14;0,2;0,4;asia;;;;India;14;5;0,36;0,5;hindu;;;49;0,41;20
+China;13;0,4;0,4;asia;;;;China;13;6;0,46;0,46;chinese;;;35;0,54;19
+New Zealand;11;0,6;0,8;oceania;;;;New Zealand;11;8;0,73;1;western;;;21;0,48;10
+Hong Kong;9;0,4;0,2;asia;;;;Hong Kong;9;4;0,44;0,33;chinese;;;16;0,38;6
+Belgium;7;0;0,4;europe;;;;Belgium;7;1;0,14;0,42;western;;;15;0,6;9
+Ireland;7;0,2;0,8;europe;;;;Ireland;7;2;0,29;1;western;;;15;0,47;7
+Mexico;6;0,4;0,2;america;;;;Mexico;6;3;0,5;0,33;latin-america;;;14;0,36;5
+Brazil;4;0,2;0,2;europe;;;;Brazil;4;1;0,25;0,25;latin-america;;;13;0,46;6
+Denmark;4;0,2;0,2;europe;;;;Denmark;4;1;0,25;0,25;western;;;11;0,73;8
+Norway;4;0,6;0,4;europe;;;;Norway;4;3;0,75;0,5;western;;;9;0,44;4
+Switzerland;4;0,4;0,8;europe;;;;Switzerland;4;2;0,5;1;western;;;7;0,14;1
+Austria;3;0,2;0,2;europe;;;;Austria;3;1;0,33;0,33;western;;;7;0,29;2
+Czech Republic;3;0,8;0,8;europe;;;;Czech Republic;3;3;1;1;western;;;6;0,5;3
+Russia;3;0,2;0,2;europe;;;;Russia;3;1;0,33;0,33;orthodox;;;4;0,25;1
+Sweden;3;0,6;0,6;europe;;;;Sweden;3;2;0,66;0,66;western;;;4;0,25;1
+Taiwan;3;0,8;0,6;asia;;;;Taiwan;3;3;1;0,66;chinese;;;4;0,75;3
+Argentina;2;0,4;0,4;america;;;;Argentina;2;1;0,5;0,5;latin-america;;;4;0,5;2
+Iceland;2;0,8;0,8;europe;;;;Iceland;2;2;1;1;western;;;3;0,33;1
+Iran;2;0,4;0;middle_east;;;;Iran;2;1;0,5;0;islamic;;;3;1;3
+Luxembourg;2;0,4;0,4;europe;;;;Luxembourg;2;1;0,5;0,5;western;;;3;0,33;1
+Netherlands;2;0,4;0,4;europe;;;;Netherlands;2;1;0,5;0,5;western;;;3;0,66;2
+Poland;2;0;0,4;europe;;;;Poland;2;0;0;0,5;western;;;3;1;3
+Romania;2;0,4;0;europe;;;;Romania;2;1;0,5;0;orthodox;;;2;0,5;1
+South Africa;2;0,8;0,8;africa;;;;South Africa;2;2;1;1;african;;;2;1;2
+United Arab Emirates;2;0,8;0,8;middle_east;;;;United Arab Emirates;2;2;1;1;islamic;;;2;0,5;1
+Egypt;1;0,8;0;africa;;;;Egypt;1;1;1;0;islamic;;;2;0,5;1
+Finland;1;0,8;0,8;europe;;;;Finland;1;1;1;1;western;;;2;0,5;1
+Greece;1;0,8;0,8;europe;;;;Greece;1;1;1;1;western;;;2;0;0
+Indonesia;1;0,8;0;asia;;;;Indonesia;1;1;1;0;islamic;;;2;0,5;1
+Israel;1;0;0;middle_east;;;;Israel;1;0;0;0;western;;;2;1;2
+Lybia;1;0,8;0,8;africa;;;;Lybia;1;1;1;1;islamic;;;2;1;2
+Monaco;1;0;0,8;europe;;;;Monaco;1;0;0;1;western;;;1;1;1
+South Korea;1;0;0;asia;;;;South Korea;1;0;0;0;chinese;;;1;1;1
+;;;;;;;;UK;85;;0,65;0,95;western;;;1;1;1
+;419;0,4;;;;;;Germany;37;;0,63;0,71;western;;;1;1;1
+;464;;;;;;;France;20;;0,41;0,57;western;;;1;0;0
+;;;;;;;;Canada;19;;0,54;0,91;western;;;1;1;1
+;;;;;;;;Italy;10;;0,48;0,66;western;;;1;0;0
+;;;;;;;;Spain;6;;0,38;0,44;western;;;1;0;0
+;;;;;;;;Australia;9;;0,6;1;western;;;;;
+;;;;;;;;Japan;7;;0,47;0,4;japanese;;;;;
+;;;;;;;;India;5;;0,36;0,5;hindu;;;;;
+;;;;;;;;China;6;;0,46;0,46;chinese;;;;;
+;;;;;;;;New Zealand;8;;0,73;1;western;;;;;
+;;;;;;;;Hong Kong;4;;0,44;0,33;chinese;;;;;
+;;;;;;;;Belgium;1;;0,14;0,42;western;;;;;
+;;;;;;;;Ireland;2;;0,29;1;western;;;;;
+;;;;;;;;Mexico;3;;0,5;0,33;latin-america;;;;;
+;;;;;;;;Brazil;1;;0,25;0,25;latin-america;;;;;
+;;;;;;;;Denmark;1;;0,25;0,25;western;;;;;
+;;;;;;;;Norway;3;;0,75;0,5;western;;;;;
+;;;;;;;;Switzerland;2;;0,5;1;western;;;;;
+;;;;;;;;Austria;1;;0,33;0,33;western;;;;;
+;;;;;;;;Czech Republic;3;;1;1;western;;;;;
+;;;;;;;;Russia;1;;0,33;0,33;orthodox;;;;;
+;;;;;;;;Sweden;2;;0,66;0,66;western;;;;;
+;;;;;;;;Taiwan;3;;1;0,66;chinese;;;;;
+;;;;;;;;Argentina;1;;0,5;0,5;latin-america;;;;;
+;;;;;;;;Iceland;2;;1;1;western;;;;;
+;;;;;;;;Iran;1;;0,5;0;islamic;;;;;
+;;;;;;;;Luxembourg;1;;0,5;0,5;western;;;;;
+;;;;;;;;Netherlands;1;;0,5;0,5;western;;;;;
+;;;;;;;;Poland;0;;0;0,5;western;;;;;
+;;;;;;;;Romania;1;;0,5;0;orthodox;;;;;
+;;;;;;;;South Africa;2;;1;1;african;;;;;
+;;;;;;;;United Arab Emirates;2;;1;1;islamic;;;;;
+;;;;;;;;Egypt;1;;1;0;islamic;;;;;
+;;;;;;;;Finland;1;;1;1;western;;;;;
+;;;;;;;;Greece;1;;1;1;western;;;;;
+;;;;;;;;Indonesia;1;;1;0;islamic;;;;;
+;;;;;;;;Israel;0;;0;0;western;;;;;
+;;;;;;;;Lybia;1;;1;1;islamic;;;;;
+;;;;;;;;Monaco;0;;0;1;western;;;;;
+;;;;;;;;South Korea;0;;0;0;chinese;;;;;
