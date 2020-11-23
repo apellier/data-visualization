@@ -9,11 +9,11 @@ This project is an assignment made for the [*Design for Data and Information Vis
 - [Adobe Illustrator](https://www.adobe.com/fr/products/illustrator.html) - a vectorial graphic creation software
   
 ## Table of Contents
-- [Big Data and Paradigm Shifts by Rob Kitchin](big-data-and-paradigm-shifts/RE06_Kitchin_PELLIER.png)
-- [Color and Visualziation by Edward Tufte](color-and-visualization/RE04_Tufte_PELLIER.png)
-- [Data-Information-Knowledge Continuum by Lucas Masud et al.](data-information-knowledge_continuum/RE03_Masud_PELLIER.jpg)
-- [A Data Type Taxonomy by Ben Schneiderman](data-type-taxonomy/RE05_Schneiderman_PELLIER.png)
-- [What is Visualization ? by Lev Manovich](what-is-visualization/RE02_Manovich-PELLIER.png) 
+- [Big Data and Paradigm Shifts by Rob Kitchin](big-data-and-paradigm-shifts/README.md)
+- [Color and Visualziation by Edward Tufte](color-and-visualization/README.md)
+- [Data-Information-Knowledge Continuum by Lucas Masud et al.](data-information-knowledge_continuum/README.md)
+- [A Data Type Taxonomy by Ben Schneiderman](data-type-taxonomy/README.md)
+- [What is Visualization ? by Lev Manovich](what-is-visualization/README.md) 
 
 ## Sources
 - Kitchin, R. (2014). Big Data, new epistemologies and paradigm shifts. Big Data & Society, 1(1), 205395171452848. https://doi.org/10.1177/2053951714528481
