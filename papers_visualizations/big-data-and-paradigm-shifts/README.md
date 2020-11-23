@@ -1,0 +1,33 @@
+# Big Data, new epistemologies and paradigm shifts
+### Rob Kitchin
+
+In this paper, Rob Kitchin presents a clear definition about Big Data and its impact over the way science and research are conducted. This leads to two approaches where data is key for improving research quality : the empiricist one and the data-driven approach. 
+
+**[Link to full viz](images/RE06_Kitchin_PELLIER _A4.png)**
+
+<img src="images/RE06_Kitchin_PELLIER _A4.png" alt="kitchin-visualization" width = 50% height=auto border= 1px>
+
+## What is Big Data and What are its Opportunities ?
+
+<img src="images/RE06_Kitchin_PELLIER_01.png" alt="what-is-big-data" width = 80% height=auto border= 1px>
+
+---
+
+## Two data-driven research paradigms
+### The Empiricist Approach
+
+<img src="images/RE06_Kitchin_PELLIER _02.png" alt="empiricst-approach" width = 80% height=auto border= 1px>
+
+### The Data-Driven Approach
+
+<img src="images/RE06_Kitchin_PELLIER _03.png" alt="data-driven-approach" width = 80% height=auto border= 1px>
+
+---
+
+## Critiques about Data-Driven Research
+
+<img src="images/RE06_Kitchin_PELLIER _04.png" alt="what-is-big-data" width = 80% height=auto border= 1px>
+
+---
+
+
