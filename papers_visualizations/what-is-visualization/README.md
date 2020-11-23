@@ -9,25 +9,25 @@ In this paper, Lev Manovich gives a broad understanding of what is visualization
 
 ## What is Visualization ?
 
-<img src="images/RE02_Manovich-PELLIER _01.png" alt="visualization_tols" width = 80% height=auto border= 1px>
+<img src="images/RE02_Manovich-PELLIER _01.png" alt="definition-visualization" width = 80% height=auto border= 1px>
 
 ---
 
 ## The Difference Between Infoviz and Dataviz
 
-<img src="images/RE02_Manovich-PELLIER _02.png" alt="dik_continuum" width = 80% height=auto border= 1px>
+<img src="images/RE02_Manovich-PELLIER _02.png" alt="difference-infoviz-dataviz" width = 80% height=auto border= 1px>
 
 ---
 
 ## Infoviz: Reduction & Space
 
-<img src="images/RE02_Manovich-PELLIER _03.png" alt="dik_continuum" width = 80% height=auto border= 1px>
+<img src="images/RE02_Manovich-PELLIER _03.png" alt="reduction-and-space" width = 80% height=auto border= 1px>
 
 ---
 
 ## Direct Visualization
 
-<img src="images/RE02_Manovich-PELLIER _04.png" alt="dik_continuum" width = 80% height=auto border= 1px>
+<img src="images/RE02_Manovich-PELLIER _04.png" alt="direct-viz" width = 80% height=auto border= 1px>
 
 ---
 
