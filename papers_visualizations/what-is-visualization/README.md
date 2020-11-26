@@ -3,6 +3,8 @@
 
 In this paper, Lev Manovich gives a broad understanding of what is visualization. From its core principles to the distinction between infoviz and dataviz. Manovich also gives a clear definition of what is direct visualization, a way of presenting data through a new visual representation that preserves data's original form.
 
+**[Link to paper](http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf)**
+
 **[Link to full viz](images/RE02_Manovich-PELLIER_A4.png)**
 
 <img src="images/RE02_Manovich-PELLIER_A4.png" alt="masud-visualization" width = 50% height=auto border= 1px>
