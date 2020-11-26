@@ -82,11 +82,11 @@ How does a foreign movie make it in the USA ?
 
 #### Datas which are gonna interest us
 
-**Identity:** genres, keyword, original\_language, overview, production\_country, spoken\_language
+<u>Identity:</u> genres, keyword, original\_language, overview, production\_country, spoken\_language
 
-**Technical:** budget, crew, production\_company, runtime
+<u>Technical:</u> budget, crew, production\_company, runtime
 
-**Impact:** revenue, popularity, vote\_average, vote\_count
+<u>Impact:</u> revenue, popularity, vote\_average, vote\_count
 
 #### Cleaning the data
 
@@ -135,6 +135,7 @@ Does the cooperation with USA make foreign movies more popular ?
 ## <a name = "standard-cinema">Towards a Standard Cinema ?
 
 ## Bibliography
+
 - Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017). RAWGraphs: A Visualisation Platform to Create Open Outputs. In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter (p. 28:1–28:5). New York, NY, USA: ACM. https://doi.org/10.1145/3125571.3125585
 
 - Kitchin, Rob. “Big Data, New Epistemologies and Paradigm Shifts.” Big Data &Society, vol. 1, no. 1, July 2014, p. 205395171452848. DOI.org (Crossref), doi:10.1177/2053951714528481.
