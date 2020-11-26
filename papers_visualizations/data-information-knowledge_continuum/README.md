@@ -3,6 +3,8 @@
 
 In this paper, visualization is presented as a communication tool and a transformation process. In the Data-Information-Knowledge continuum, visualizations are what give meaning to data and therefore understanding.
 
+**[Link to paper](https://www.researchgate.net/profile/Paolo_Ciuccarelli/publication/221360612_From_Data_to_Knowledge_-_Visualizations_as_Transformation_Processes_within_the_Data-Information-Knowledge_Continuum/links/0fcfd5006b40145ed6000000/From-Data-to-Knowledge-Visualizations-as-Transformation-Processes-within-the-Data-Information-Knowledge-Continuum.pdf)**
+
 **[Link to full viz](images/RE03_Masud_PELLIER_A4.jpg)**
 
 <img src="images/RE03_Masud_PELLIER_A4.jpg" alt="masud-visualization" width = 50% height=auto border= 1px>
