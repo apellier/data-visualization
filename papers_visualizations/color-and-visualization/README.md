@@ -4,6 +4,8 @@
 In its remarkable book *Visual Display of Quantitative Information* paper, Edward Tufte a chapter to the tough use of color in visualizations.  
 Tough because color can be easily harmful and produce an unpleasant result. By comparing examples, E. Tufte presents some thumb rules to deal with colors and the pitfalls to not fall in.
 
+**[Link to book](https://www.edwardtufte.com/tufte/books_vdqi)**
+
 **[Link to full viz](images/RE04_Tufte_PELLIER_A4.png)**
 
 <img src="images/RE04_Tufte_PELLIER_A4.png" alt="tufte-visualization" width = 50% height=auto border= 1px>
