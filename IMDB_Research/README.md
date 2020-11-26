@@ -23,17 +23,17 @@ This project is an assignment made for the [*Design for Data and Information Vis
   
 ## Table of Contents
 - [Exploration](#exploration)
-- [What is a good movie ?](#what-is-a-good-movie-?)
-- [Cinema & Borders](#cinema-&-borders)
-- [Towards a standard cinema ?](#towards-a-standard-cinema-?)
+- [What is a good movie ?](#good-movie)
+- [Cinema & Borders](#cinema-borders)
+- [Towards a standard cinema ?](#standard-cinema)
 
-## Exploration
+## <a name="exploration">Exploration 
 
-## What is a Good Movie ?
+## <a name="good-movie">What is a Good Movie ? 
 
-## Cinema & Borders
+## <a name="cinema-borders">Cinema & Borders 
 
-## Towards a Standard Cinema ?
+## <a name = "standard-cinema">Towards a Standard Cinema ?
 
 ## Bibliography
 - Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017). RAWGraphs: A Visualisation Platform to Create Open Outputs. In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter (p. 28:1–28:5). New York, NY, USA: ACM. https://doi.org/10.1145/3125571.3125585
