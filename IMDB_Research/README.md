@@ -1,1 +1,43 @@
-# IMDB Research 
+# IMDb and non-American movies : a dataviz research
+### How do foreign movies make it in the USA ? 
+
+In collaboration with Nils Loiseau, we researched about the place of non-American movies in the Internet Movie Database and influence from the American cinematographic industry.
+
+We used data-visualization to highlight our main findings and give insight to our hypothesis.
+
+This project is an assignment made for the [*Design for Data and Information Visualization*](http://formation.sciences-po.fr/enseignement/2019/ocom/2585) class in Sciences Po Paris.
+
+## Built With
+
+#### Analyzing Data
+
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - a spreadsheet software
+
+- [Open Refine](https://openrefine.org/) - data cleaning and transformation software
+
+#### Visualizing Data
+
+- [Raw Graphs](https://rawgraphs.io/) - a data-visualization framework
+
+- [Adobe Illustrator](https://www.adobe.com/fr/products/illustrator.html) - a vectorial graphic creation software
+  
+## Table of Contents
+- [Exploration](#exploration)
+- [What is a good movie ?](#what-is-a-good-movie-?)
+- [Cinema & Borders](#cinema-&-borders)
+- [Towards a standard cinema ?](#towards-a-standard-cinema-?)
+
+## Exploration
+
+## What is a Good Movie ?
+
+## Cinema & Borders
+
+## Towards a Standard Cinema ?
+
+## Bibliography
+- Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017). RAWGraphs: A Visualisation Platform to Create Open Outputs. In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter (p. 28:1–28:5). New York, NY, USA: ACM. https://doi.org/10.1145/3125571.3125585
+
+- Kitchin, Rob. “Big Data, New Epistemologies and Paradigm Shifts.” Big Data &Society, vol. 1, no. 1, July 2014, p. 205395171452848. DOI.org (Crossref), doi:10.1177/2053951714528481.
+
+- Masud, Luca, et al. “From Data to Knowledge - Visualizations as Transformation Processes within the Data-Information-Knowledge Continuum.”, 2010 14th International Conference Information Visualisation, IEEE, 2010, pp.445–49. DOI.org (Crossref), doi:10.1109/IV.2010.68.
