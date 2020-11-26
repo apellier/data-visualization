@@ -29,6 +29,105 @@ This project is an assignment made for the [*Design for Data and Information Vis
 
 ## <a name="exploration">Exploration 
 
+#### Research framework
+1. Hypothesis generating 
+
+2. Expose hypothesis to data, identify the patterns 
+3. Rephrase the hypothesis 
+4. Test, test and test again 
+5. Repeat step 2,3 and 4 again 
+6. Conclusion
+
+[//]: # (add research_framework.png)
+
+#### The dataset
+
+[//]: # (add data_head)
+
+The dataset contains :
+
+- 4064 entries
+- 18 categories
+
+What we want to study : movies geographical diversity 
+
+Our first goal : link this geographial data to other economical data (revenue, budget) and cultural data (genres, keywords, overview)
+
+In the meantime : study relationship links between countries via co-productions
+
+The first project draft : make a world map representing countries producing movies, their interactions and their cultural characteristics
+
+#### First problem encountered
+
+[//]: # (add open_refine_first)
+
+After a first exploration of the data on Open Refine, we realize USA's weight over the dataset : more than half (and not counting co-production)of the movies present in the dataset are produced by the USA.
+
+Proportion of foreign movies is really low and not enough representative from countries present in the dataset.
+
+Therefore, we can say that the dataset represents the American film market : its productions but also and above all its consumption - which we can analyze through vote-average and revenue.
+
+#### Thinking process
+
+This representation bias from the dataset can be useful for us into guiding our research towards another angle : we can analyze how a foreign movie can be successful in the USA.
+
+Even more interesting, this USA weight over the dataset is also explained by the weight of its coproduction with foreign countries.
+Do these coproductions influence cultural norms from foreign movies ? Do they increase their chance to be successful ? 
+
+**Research questions :**
+
+What are the ingredients of success for a foreign movie in the American box-office ?
+
+How does a foreign movie make it in the USA ?
+
+#### Datas which are gonna interest us
+
+**Identity:** genres, keyword, original\_language, overview, production\_country, spoken\_language
+
+**Technical:** budget, crew, production\_company, runtime
+
+**Impact:** revenue, popularity, vote\_average, vote\_count
+
+#### Cleaning the data
+
+[//]: # (cleaning data image)
+
+First step : cleaning the dataset
+
+Check for adding errors, empty cells, unvalid formats...
+
+#### Research plan
+
+##### Foreign movies "cultural" analysis
+
+What are the norms from foreign movies who make it in the USA ? <br>
+*Data : genres, themes (keywords, overview), runtime*
+
+What are the norms from *very good* foreign movies (among the first two deciles from the dataset)
+
+##### American movies "cultural" analysis
+
+What are the norms from american movies ? <br> *Data : genres, themes (keywords, overview), spoken\_language and original\_language, runtime*
+
+What are the norms from *very good* American movies (among the first two deciles from the dataset)
+
+##### Comparative analysis
+
+Are norms from *very good* foreign movies different from *very good* American movies ?
+
+Do foreign movies should adapt their cultural content for American market ?
+
+- Do they adapt languages spoken in the movie ? 
+- What about themes and genres ? 
+- Are movies radically different from American standards well received in the USA ?
+
+
+Does the cooperation with USA make foreign movies more popular ? 
+
+- Does it make a budget difference in comparison with *100%* foreign movies ?
+- Are coproduced movies better received by the American market ?
+- Does this coproduction adapts movies cultural norms ? Is there a difference in genres and themes in comparison with *100%* foreign movies ?
+
 ## <a name="good-movie">What is a Good Movie ? 
 
 ## <a name="cinema-borders">Cinema & Borders 
